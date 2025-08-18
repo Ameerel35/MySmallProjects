@@ -24,7 +24,7 @@ while guesses > 0:
     print(guessWord)
     
     print("You have ",guesses," guesses left.")
-    guess = input("Enter a letter: ")
+    guess = input("Enter a letter (in small caps): ")
     if guess in hangmanWord and len(guess) == 1:  # Add correct guess/guesses to displayed list.
         k = 0
         while k < original_length:
