@@ -1,0 +1,9 @@
+Timestamp,Cloudwatch Metric,Value,Unit,Agent,Tenant,Bedrock LLM model_id,Langfuse trace_id,Total tokens used
+2026-01-09T10:34:11.021877,BedrockInvocationLatency,2001.652241,Milliseconds,reporter_agent,Food,mistral.mistral-7b-instruct-v0:2,e3d256f6-4079-442f-bc1e-b47899128bf7,151
+2026-01-09T10:34:11.024413,BedrockInvocations,1,Count,reporter_agent,Food,mistral.mistral-7b-instruct-v0:2,e3d256f6-4079-442f-bc1e-b47899128bf7,151
+2026-01-12T14:50:06.845773,BedrockInvocationLatency,2179.1586875915527,Milliseconds,reporter_agent,Games,mistral.mistral-7b-instruct-v0:2,d52c1915-f57e-4252-8674-7221953370ce,146
+2026-01-12T14:50:06.849596,BedrockInvocations,1,Count,reporter_agent,Games,mistral.mistral-7b-instruct-v0:2,d52c1915-f57e-4252-8674-7221953370ce,146
+2026-01-12T14:54:42.925503,BedrockInvocationLatency,2248.6610412597656,Milliseconds,reporter_agent,Food,mistral.mistral-7b-instruct-v0:2,4997e603-acc6-4a3a-a0d2-2523500a841d,151
+2026-01-12T14:54:42.926403,BedrockInvocations,1,Count,reporter_agent,Food,mistral.mistral-7b-instruct-v0:2,4997e603-acc6-4a3a-a0d2-2523500a841d,151
+2026-01-13T05:52:50.427235,BedrockInvocationLatency,2069.6053504943848,Milliseconds,reporter_agent,Food,mistral.mistral-7b-instruct-v0:2,329cf2bd-4e00-41bb-ac32-0a74d377460b,151
+2026-01-13T05:52:50.428766,BedrockInvocations,1,Count,reporter_agent,Food,mistral.mistral-7b-instruct-v0:2,329cf2bd-4e00-41bb-ac32-0a74d377460b,151
