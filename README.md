@@ -1,2 +1,2 @@
 # MyProjects
-This repository contains projects showcasing my interest in programming, ranging from straightforward programs to full-stack projects.
+This repository contains miniature projects, ranging from single-language programs to AI-driven applications.
